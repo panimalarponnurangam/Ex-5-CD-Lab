@@ -17,7 +17,7 @@ To write a YACC program to recognize the grammar anb where n>=10.
 NAME: PANIMALAR P
 REGISTER NO: 212222110031
 ````
-**# PROGRAM 1 :**
+**PROGRAM 1 :**
 
 ````
 %{
@@ -38,7 +38,7 @@ int yywrap()
     return 1;
 }
 ````
-**# PROGRAM 2 :**
+** PROGRAM 2 :**
 ````
 %{
 /* Definition section */
