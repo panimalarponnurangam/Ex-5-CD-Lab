@@ -38,7 +38,7 @@ int yywrap()
     return 1;
 }
 ````
-** PROGRAM 2 :**
+**PROGRAM 2 :**
 ````
 %{
 /* Definition section */
